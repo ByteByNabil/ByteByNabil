@@ -25,7 +25,7 @@
 </div>
 <hr/>
 
-<img align="right" height="250" width="365" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif"/>
+<img align="right" height="260" width="360" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif"/>
 
 ### Talking about Personal Stuff
 
@@ -74,15 +74,25 @@
 const kamruddinNabil = {
   pronouns: "he/him",
   code: ["JavaScript", "TypeScript", "HTML", "CSS", "Tailwind CSS"],
-  tools: ["React", "NextJs", "Node.js","ExpressJs","Docker", "Golang","PostgreSql","Prisma"],
+  tools: [
+    "React",
+    "NextJs",
+    "Node.js",
+    "ExpressJs",
+    "Docker",
+    "Golang",
+    "PostgreSql",
+    "Prisma",
+  ],
   architecture: ["design system pattern"],
   techCommunities: {
     coorganizer: "International Islamic University Chittagong",
     speaker: "English",
-    mentor: "Web Developer"
+    mentor: "Web Developer",
   },
-  challenge: "I am doing the #100DaysOfCode challenge focused on React and TypeScript"
-}
+  challenge:
+    "I am doing the #100DaysOfCode challenge focused on React and TypeScript",
+};
 ```
 
 <!-- - visit count ---> -->
